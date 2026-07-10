@@ -1,10 +1,10 @@
 # Hi, I'm Theijo Indra 👋
 
-### Biology Graduate | Aspiring Software Developer
+### Biology Graduate | Aspiring Data Scientist
 
 Welcome to my GitHub!
 
-I'm a Biology graduate from Macquarie University who has recently started my journey into software development. I'm currently learning Python and building projects to strengthen my programming, problem-solving, and software development skills.
+I'm a Biology graduate from Macquarie University who has recently started my journey into Data Scientist. I'm currently learning Python and building projects to strengthen my programming, problem-solving, and Data Scientist skills.
 
 My goal is to create a portfolio that showcases my progress while developing practical applications and continuously improving as a programmer.
 
@@ -15,7 +15,7 @@ My goal is to create a portfolio that showcases my progress while developing pra
 - Python
 - Git & GitHub
 - Programming fundamentals
-- Object-Oriented Programming
+- R-Studio
 - Problem Solving
 
 ---
@@ -42,9 +42,8 @@ My goal is to create a portfolio that showcases my progress while developing pra
 ## 🚀 Current Goals
 
 - Complete Python projects
-- Learn software development best practices
+- Learn Data Scientist best practices
 - Build a strong GitHub portfolio
-- Contribute to open-source projects in the future
 
 ---
 
@@ -63,7 +62,6 @@ As I continue learning, I'll be uploading projects including:
 ## 📫 Connect With Me
 
 - LinkedIn: *www.linkedin.com/in/theijo-indra-47274b233*
-- GitHub: https://github.com/The-ijo
 
 ---
 
