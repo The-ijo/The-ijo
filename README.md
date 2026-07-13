@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm a Biology graduate from Macquarie University who has recently started my journey into Data Scientist. I'm currently learning Python and building projects to strengthen my programming, problem-solving, and Data Scientist skills.
+I'm a Biology graduate from Macquarie University . I'm currently learning Python and building projects to strengthen my programming and problem-solving skills.
 
 My goal is to create a portfolio that showcases my progress while developing practical applications and continuously improving as a programmer.
 
@@ -42,7 +42,6 @@ My goal is to create a portfolio that showcases my progress while developing pra
 ## 🚀 Current Goals
 
 - Complete Python projects
-- Learn Data Scientist best practices
 - Build a strong GitHub portfolio
 
 ---
